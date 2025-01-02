@@ -11,7 +11,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       //appBar: AppBar(),
-      backgroundColor: Colors.white,
+      backgroundColor: Color.fromARGB(239, 255, 255, 255),
       bottomNavigationBar: ClipRRect(
         borderRadius: BorderRadius.circular(30), // Apply rounded corners
         child: BottomNavigationBar(
