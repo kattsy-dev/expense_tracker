@@ -102,7 +102,7 @@ class MainScreen extends StatelessWidget {
                     height: 12,
                   ),
                   const Text(
-                    'P500',
+                    '\$ 50,000,000',
                     style: TextStyle(
                       fontSize: 30,
                       fontWeight: FontWeight.bold, // Make the text bold
