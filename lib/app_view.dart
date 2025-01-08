@@ -24,7 +24,7 @@ class MyAppView extends StatelessWidget {
               color: Colors.black), // Set text color for the background
         ),
       ),
-      home: HomeScreen(),
+      home: const HomeScreen(),
     );
   }
 }
